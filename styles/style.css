@@ -1,0 +1,226 @@
+body{
+	background: #FFFFFF;
+}
+
+.justcont{
+	padding-top: 40px;
+}
+
+ul{
+	margin-left: 950px;
+	vertical-align: middle;
+	display: flex;
+}
+
+li{
+	display: inline-block;
+	margin-top: ;
+	margin-right:35px ;
+}
+
+a{
+	color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+}
+
+.img-1{
+	position: relative;
+	margin-top: 20px;
+	width: 1540px;
+}
+
+h2{
+	position: absolute;
+	top: 48%;
+	left:29.3% ;
+	color: #FFF;
+    font-size: 79px;
+    font-family: Helvetica;
+    font-weight: 700;
+}
+
+.content p{
+	position: absolute;
+	top:64.2%;
+	left: 39%;
+	color: #FFF;
+    font-size: 19px;
+    font-family: Helvetica;
+}
+
+.div27{
+	display: flex;
+}
+
+.justcontent{
+	margin-top: 120px;
+	margin-left: 40px;
+}
+
+.justcontent h1{
+	color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+}
+
+.justcontent h3{
+	color: #010101;
+    font-size: 28px;
+    font-family: Helvetica;
+    margin-top: 10px;
+}
+
+.justcontent p{
+	display: flex;
+	flex-direction: column;
+	width: 235px;
+	height: 115px;
+	color: #636060;
+    font-size: 20px;
+    font-family: Helvetica;
+    margin-top: 30px;
+}
+
+.maincontent{
+	display: flex;
+	margin-left: 180px;
+	padding: 100px;
+}
+
+.div1{
+	margin: 5px;
+	padding:10px ;
+}
+
+.div1 h4{
+	margin-top: 15px;
+	color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+}
+
+.div1 p{
+	display: flex;
+	flex-direction:column ;
+	width: 286px;
+	color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div2{
+	margin: 5px;
+	padding: 10px;
+}
+
+.div2 h4{
+	color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div2 p{
+	display: flex;
+    width: 286px;
+    flex-direction: column;
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div3{
+	margin: 5px;
+	padding: 10px;
+}
+
+.div3 h4{
+    color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div3 p{
+	display: flex;
+    width: 286px;
+    flex-direction: column;
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div33{
+	display: flex;
+	margin-left: 559px;
+}
+
+.div4{
+	margin: 5px;
+	padding: 10px;
+}
+
+.div4 h5{
+	color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div4 p{
+	display: flex;
+    width: 286px;
+    flex-direction: column;
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div5{
+	margin:5px ;
+	padding: 10px;
+}
+
+.div5 h5{
+	color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div5 p{
+	display: flex;
+    width: 286px;
+    flex-direction: column;
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div6{
+	margin: 5px;
+	padding: 10px;
+}
+
+.div6 h5{
+	color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
+
+.div6 p{
+	display: flex;
+    width: 286px;
+    flex-direction: column;
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 15px;
+}
